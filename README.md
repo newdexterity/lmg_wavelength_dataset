@@ -11,6 +11,7 @@ Where {number} is the subject number
 - ir light only
 - both green and ir lights blinking alternately at 250ms
 - both green and ir lights blinking alternately at 125ms
+  
 {repetition} is the repetition number from 1 to 5
 
 In each file, the first row is a header numbering each column from 0 to 40

@@ -14,8 +14,10 @@ Where {number} is the subject number
   
 {repetition} is the repetition number from 1 to 5
 
-In each file, the first row is a header numbering each column from 0 to 40
-Columns 0 to 39 inclusive is each of the 40 LMG channels, the value is the measured voltage.
-Column 40 is the gesture label from 0 to 5 (rest, pinch, tripod, full, key, extension)
+In each file, the first row is a header numbering each column from 0 to 40.
 
-Subject Information including age, sex, handedness, and the order or data collection is found in SubjectInfo.xlsx
+Columns 0 to 39 inclusive is each of the 40 LMG channels, the value is the measured voltage.
+
+Column 40 is the gesture label from 0 to 5 (rest, pinch, tripod, full, key, extension).
+
+Subject Information including age, sex, handedness, and the order or data collection is found in **SubjectInfo.xlsx**

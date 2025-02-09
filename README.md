@@ -3,8 +3,11 @@
 This dataset contains lightmyography data from 10 subjects using different light wavelength configurations.
 
 Each file is named subj{number}_{light_configuration}{repetition}_lmg.csv
+
 Where {number} is the subject number
+
 {light_configuration} is either green, ir, 250both or 125both referring to the light configuration
+
 	green light only
 	ir light only
 	both green and ir lights blinking alternately at 250ms
